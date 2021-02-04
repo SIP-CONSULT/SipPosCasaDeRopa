@@ -1,0 +1,3 @@
+package net.sipconsult.sipposcasaderopa.data.datasource.service.network
+
+interface ServiceNetworkDataSource

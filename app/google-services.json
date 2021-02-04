@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51087614411",
+    "project_id": "sipposcasaderopa",
+    "storage_bucket": "sipposcasaderopa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51087614411:android:6d70be1ccf6186133b564e",
+        "android_client_info": {
+          "package_name": "net.sipconsult.sipposcasaderopa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51087614411-s2k9tvhvnilfud0e20rp4an00bnqu7k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjhh7gtOLdKXWcOvFUFJhi3DMULxQgpbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51087614411-s2k9tvhvnilfud0e20rp4an00bnqu7k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

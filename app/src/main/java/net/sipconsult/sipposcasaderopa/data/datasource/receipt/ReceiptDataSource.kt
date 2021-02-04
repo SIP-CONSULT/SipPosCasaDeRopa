@@ -1,0 +1,3 @@
+package net.sipconsult.sipposcasaderopa.data.datasource.receipt
+
+interface ReceiptDataSource
